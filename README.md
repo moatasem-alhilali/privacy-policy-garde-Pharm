@@ -2,9 +2,9 @@
 
 ## 🇦🇪 بالعربي
 
-**سياسة الخصوصية لتطبيق LocateMed**
+**سياسة الخصوصية لتطبيق Garde Pharm**
 
-نحن في تطبيق *LocateMed* نحترم خصوصيتك ونلتزم بحمايتها.
+نحن في تطبيق *Garde Pharm* نحترم خصوصيتك ونلتزم بحمايتها.
 هذه السياسة توضح كيفية تعامل التطبيق مع بيانات المستخدمين:
 
 1. **عدم جمع البيانات الشخصية**
@@ -35,9 +35,9 @@
 
 ## 🇬🇧 English
 
-**Privacy Policy for LocateMed**
+**Privacy Policy for Garde Pharm**
 
-At *LocateMed*, we respect your privacy and are committed to protecting it.
+At *Garde Pharm*, we respect your privacy and are committed to protecting it.
 This Privacy Policy explains how the app handles user data:
 
 1. **No Collection of Personal Data**
