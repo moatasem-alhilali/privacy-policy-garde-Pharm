@@ -1,33 +1,66 @@
-# Privacy Policy
+# 📜 Privacy Policy (سياسة الخصوصية)
 
-Garde Pharm takes your privacy seriously. To better protect your privacy, we provide this privacy policy notice explaining the way your personal information is collected and used.
+## 🇦🇪 بالعربي
 
-## Collection of Routine Information
+**سياسة الخصوصية لتطبيق LocateMed**
 
-This app tracks basic information about its users. This information includes, but is not limited to, IP addresses, app details, timestamps, and referring pages. None of this information can personally identify specific users of this app. The information is tracked for routine administration and maintenance purposes.
+نحن في تطبيق *LocateMed* نحترم خصوصيتك ونلتزم بحمايتها.
+هذه السياسة توضح كيفية تعامل التطبيق مع بيانات المستخدمين:
 
-## Cookies
+1. **عدم جمع البيانات الشخصية**
 
-Where necessary, this app uses cookies to store information about a user's preferences and history in order to better serve the user and/or present the user with customized content.
+   * لا يقوم التطبيق بجمع أو تخزين أي بيانات شخصية (مثل الاسم أو البريد الإلكتروني أو الموقع الدقيق).
 
-## Advertisement and Other Third Parties
+2. **المعلومات المعروضة**
 
-Advertising partners and other third parties may use cookies, scripts, and/or web beacons to track user activities on this app in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This app has no access or control over these cookies, scripts, and/or web beacons that may be used by third parties. Learn how to opt-out of Google's cookie usage.
+   * التطبيق يتيح للمستخدمين الاطّلاع على بيانات عامة عن الصيدليات المناوبة والأطباء (الاسم، التخصص، رقم الهاتف، العنوان).
+   * جميع هذه البيانات عامة أو مقدمة من جهات مسجلة ولا يتم تعديلها من قبل التطبيق.
 
-## Links to Third-Party Websites
+3. **عدم تقديم استشارات طبية**
 
-We have included links on this app for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from our own.
+   * التطبيق لا يقدّم نصائح أو تشخيصات أو علاجًا طبيًا.
+   * الغرض الوحيد هو تزويد المستخدم بمعلومات إرشادية للوصول إلى مقدمي خدمات الرعاية الصحية.
 
-## Security
+4. **الاتصال الآمن**
 
-The security of your personal information is important to us, but remember that no method of transmission over the Internet or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+   * جميع الاتصالات بين التطبيق والخادم (إن وُجد) تتم باستخدام بروتوكولات آمنة (HTTPS).
 
-## Changes To This Privacy Policy
+5. **التغييرات على السياسة**
 
-This Privacy Policy is effective as of 2024 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+   * قد يتم تحديث هذه السياسة من وقت لآخر، وسيتم إخطار المستخدمين بأي تغييرات من خلال تحديثها في متجر Google Play.
 
-We reserve the right to update or change our Privacy Policy at any time, and you should check this Privacy Policy periodically. If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us or by placing a prominent notice on our app.
+إذا كان لديك أي استفسار حول سياسة الخصوصية، يمكنك التواصل معنا عبر البريد الإلكتروني: **\[ضع بريدك هنا]**
 
-## Contact Information
+---
 
-For any questions or concerns regarding the privacy policy, please send us an email to ilyesdjebloul@gmail.com .
+## 🇬🇧 English
+
+**Privacy Policy for LocateMed**
+
+At *LocateMed*, we respect your privacy and are committed to protecting it.
+This Privacy Policy explains how the app handles user data:
+
+1. **No Collection of Personal Data**
+
+   * The app does not collect or store any personal information (such as name, email, or precise location).
+
+2. **Displayed Information**
+
+   * The app provides publicly available information about on-duty pharmacies and registered doctors (name, specialty, phone number, address).
+   * All displayed data is public or provided by official registered sources and is not modified by the app.
+
+3. **No Medical Advice**
+
+   * The app does not provide medical advice, diagnosis, or treatment.
+   * Its sole purpose is to guide users with general information to help them reach healthcare providers.
+
+4. **Secure Communication**
+
+   * All communications between the app and any server (if applicable) are encrypted using secure protocols (HTTPS).
+
+5. **Changes to this Policy**
+
+   * This policy may be updated from time to time. Users will be notified of any changes by updating the policy on Google Play.
+
+For any questions regarding this Privacy Policy, please contact us at: **\[m.alhilalee@gmail.com]**
+
